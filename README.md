@@ -27,7 +27,8 @@ Steps :
 
 10) Enjoy
 
---->  ATTENTION:   After A Restart Unc0ver Has To Be Executed Twice.
+--->  ATTENTION:   After A Restart Unc0ver Has To Be Executed Twice. First Try Will Failed. Click "View Log" And Run Unc0ver Again.
+
 
 
 Credits :
