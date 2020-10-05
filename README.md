@@ -27,6 +27,8 @@ Steps :
 
 10) Enjoy
 
+--->  ATTENTION:   After A Restart Unc0ver Has To Be Executed Twice.
+
 
 Credits :
 
