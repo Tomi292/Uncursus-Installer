@@ -23,9 +23,11 @@ Steps :
 
 8) Update Each Package Separately
 
-9) Add This Repo (https://artikushg.github.io/) And Install The Package "PreferenceLoader"
+9) Add This Repo (https://repo.theodyssey.dev/) And Update Sileo
 
-10) Enjoy
+10) Add This Repo (https://artikushg.github.io/) And Install The Package "PreferenceLoader"
+
+XX) Enjoy
 
 --->  ATTENTION:   After A Restart Unc0ver Has To Be Executed Twice. First Try Will Failed. Click "View Log" And Run Unc0ver Again.
 
